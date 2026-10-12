@@ -1,16 +1,41 @@
-## Hi there 👋
+<p align="center"><img src="assets/header.svg" alt="Max Liv — приложения для повседневных задач" width="100%"></p>
 
-<!--
-**maxliv234-star/maxliv234-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Desktop apps · Open source · Русскоязычные интерфейсы</b><br>
+  Разрабатываю приложения и адаптирую открытые проекты для повседневных задач.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/maxliv234-star/DiscForge-RU">DiscForge RU</a> ·
+  <a href="https://github.com/maxliv234-star/FinTrack">FinTrack Mac</a> ·
+  <a href="https://github.com/maxliv234-star/pdfcraft">PdfCraft RU</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Проекты
+
+| Проект | Для чего | Платформа и статус |
+| :--- | :--- | :--- |
+| **[DiscForge RU](https://github.com/maxliv234-star/DiscForge-RU)** | Подготовка видео к Blu-ray: анализ, главы, создание BDMV и ISO. | Windows · macOS экспериментально · **альфа** |
+| **[FinTrack Mac](https://github.com/maxliv234-star/FinTrack)** | Личные финансы: счета, категории и дашборд, RUB / USD / EUR и курсы ЦБ РФ. Русскоязычная модификация Mint Leaf. | macOS · Apple Silicon · **в разработке** |
+| **[PdfCraft RU](https://github.com/maxliv234-star/pdfcraft)** | Форк PdfCraft для работы с PDF и развития RU-редакции. Основа — проект ArtCraft / storytold. | Rust · egui · **форк в разработке** |
+
+### Подход
+
+Понятные интерфейсы, документированный запуск и прозрачный статус возможностей.
+В каждом проекте можно найти исходники, требования и ограничения текущей версии.
+Для модификаций открытого ПО сохраняю ссылки на оригинал, лицензии и авторство.
+
+### Технологии проектов
+
+**Python · PySide6 · FFmpeg** — видео и инструменты для Blu-ray  
+**Swift · SwiftUI · SwiftData** — приложения для macOS  
+**Rust · egui** — экосистема PdfCraft
+
+### Обратная связь
+
+Ошибки и предложения по приложениям — через Issues соответствующего репозитория.
+Укажите версию, систему и шаги воспроизведения; для примеров используйте обезличенные данные.
+
+<sub>Max Liv · Приложения, документация и открытая разработка.</sub>
