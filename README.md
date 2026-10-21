@@ -25,9 +25,9 @@ FORQO — бренд разработки программного обеспе�
 
 | Проект | Задача | Платформа · статус |
 | :--- | :--- | :--- |
-| **[DiscForge RU](https://github.com/maxliv234-star/DiscForge-RU)** | Подготовка видео к Blu-ray: анализ, главы, BDMV и ISO. | Windows · macOS экспериментально · **альфа** |
-| **[FinTrack Mac](https://github.com/maxliv234-star/FinTrack)** | Личные финансы: счета, категории, дашборд, RUB / USD / EUR и курсы ЦБ РФ. Русскоязычная модификация Mint Leaf. | macOS · Apple Silicon · **в разработке** |
-| **[PdfCraft RU](https://github.com/maxliv234-star/pdfcraft)** | Работа с PDF и развитие русскоязычного интерфейса. Независимый форк проекта ArtCraft / storytold. | Rust · egui · **в разработке** |
+| **[DiscForge RU](https://github.com/FORQO/DiscForge-RU)** | Подготовка видео к Blu-ray: анализ, главы, BDMV и ISO. | Windows · macOS экспериментально · **альфа** |
+| **[FinTrack Mac](https://github.com/FORQO/FinTrack)** | Личные финансы: счета, категории, дашборд, RUB / USD / EUR и курсы ЦБ РФ. Русскоязычная модификация Mint Leaf. | macOS · Apple Silicon · **в разработке** |
+| **[PdfCraft RU](https://github.com/FORQO/pdfcraft)** | Работа с PDF и развитие русскоязычного интерфейса. Независимый форк проекта ArtCraft / storytold. | Rust · egui · **в разработке** |
 
 ### Технологии
 
