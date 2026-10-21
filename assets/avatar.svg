@@ -3,7 +3,7 @@
 <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a7afb4"/><stop offset=".4" stop-color="#515c64"/><stop offset="1" stop-color="#242c31"/></linearGradient>
 <linearGradient id="fold" x1="0" y1="0" x2="1" y2=".3"><stop stop-color="#242c32"/><stop offset=".5" stop-color="#68747d"/><stop offset="1" stop-color="#161d22"/></linearGradient>
 <linearGradient id="orange" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#ff6100"/><stop offset="1" stop-color="#ff941c"/></linearGradient>
-</defs><rect width="800" height="800" fill="url(#bg)"/><g transform="translate(137 102) scale(2.55)"><path d="M22 68 79 10Q86 3 98 3H224L175 57Q171 62 162 62H67Q42 62 22 86Z" fill="url(#metal)" stroke="#a8b3ba" stroke-opacity=".35" stroke-width="1.5"/>
+</defs><rect width="800" height="800" fill="url(#bg)"/><g transform="translate(139 139) scale(2.2)"><path d="M22 68 79 10Q86 3 98 3H224L175 57Q171 62 162 62H67Q42 62 22 86Z" fill="url(#metal)" stroke="#a8b3ba" stroke-opacity=".35" stroke-width="1.5"/>
 <path d="M22 86Q22 64 48 62H90L22 142Z" fill="url(#fold)"/>
 <path d="M22 172 95 92H182L59 224Q52 232 43 232H22Z" fill="url(#metal)"/>
 <path d="M56 148 108 88Q112 84 121 84H189L149 132Q144 139 134 139H72Z" fill="#05090c" opacity=".7"/>
