@@ -33,6 +33,10 @@
 **Swift · SwiftUI · SwiftData** — приложения для macOS  
 **Rust · egui** — экосистема PdfCraft
 
+### Сертификаты и достижения
+
+- [Introduction to Cybersecurity — Cisco](https://www.credly.com/earner/earned/badge/f3bd5265-cc8e-482c-ad35-71eb23c43f47) — курс Cisco Networking Academy, бейдж выдан 16 октября 2026 года.
+
 ### Обратная связь
 
 Ошибки и предложения по приложениям — через Issues соответствующего репозитория.
