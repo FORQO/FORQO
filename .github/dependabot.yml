@@ -1,6 +1,25 @@
 # FORQO · Software Engineering
-# Weekly dependency version checks; updates are proposed as pull requests for review.
-version: 2
 # Profile and documentation only: no dependency manifests or GitHub Actions workflows.
-# Add an update entry with its manifest directory and schedule when an ecosystem is introduced.
-updates: []
+# GitHub requires at least one updates entry. This placeholder is intentionally disabled.
+# After adding workflows, set open-pull-requests-limit to 5 to activate weekly updates.
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "09:00"
+      timezone: "Europe/Moscow"
+    open-pull-requests-limit: 0
+    commit-message:
+      prefix: "FORQO deps"
+      include: "scope"
+    groups:
+      forqo-minor-and-patch:
+        applies-to: "version-updates"
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"
