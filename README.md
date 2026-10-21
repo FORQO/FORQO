@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="FORQO — Software Engineering" width="100%">
+  <img src="assets/forqo-header.svg" alt="FORQO — Software Engineering" width="100%">
 </p>
 
 <p align="center">
