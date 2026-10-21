@@ -1,11 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-<title id="title">Max Liv</title><desc id="desc">Приложения для повседневных задач. Desktop apps and open source.</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101525"/><stop offset="1" stop-color="#282047"/></linearGradient><linearGradient id="line"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#67e8f9"/></linearGradient></defs>
-<rect width="1200" height="300" rx="20" fill="url(#bg)"/>
-<g fill="none" stroke="#a78bfa" stroke-opacity=".18"><circle cx="1070" cy="145" r="170"/><circle cx="1070" cy="145" r="125"/><circle cx="1070" cy="145" r="80"/><path d="M880 250L1120 10M950 300L1190 60"/></g>
-<rect x="56" y="54" width="48" height="4" rx="2" fill="url(#line)"/>
-<text x="56" y="136" fill="#f8fafc" font-family="Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Max Liv</text>
-<text x="59" y="186" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="24">Приложения для повседневных задач</text>
-<text x="59" y="247" fill="#a5b4fc" font-family="Arial, sans-serif" font-size="14" letter-spacing="3">DESKTOP APPS / OPEN SOURCE</text>
-<g transform="translate(982 89)" stroke="url(#line)" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M0 107V0L42 61L84 0V107M110 0V107H165"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" role="img" aria-labelledby="title desc">
+<title id="title">FORQO — Software Engineering</title><desc id="desc">Графитовый фон, металлический знак F и оранжевый акцент. Desktop applications, open source, RU interfaces.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171d21"/><stop offset="1" stop-color="#080c0e"/></linearGradient>
+<linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a7afb4"/><stop offset=".4" stop-color="#515c64"/><stop offset="1" stop-color="#242c31"/></linearGradient>
+<linearGradient id="fold" x1="0" y1="0" x2="1" y2=".3"><stop stop-color="#242c32"/><stop offset=".5" stop-color="#68747d"/><stop offset="1" stop-color="#161d22"/></linearGradient>
+<linearGradient id="orange" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#ff6100"/><stop offset="1" stop-color="#ff941c"/></linearGradient>
+</defs>
+<rect width="1440" height="440" rx="20" fill="url(#bg)"/>
+<path d="M1040 0h400v440H880Z" fill="#fff" opacity=".018"/>
+<path d="m1120 0-340 440M1290 0 950 440" stroke="#fff" stroke-opacity=".035" stroke-width="1"/>
+<g transform="translate(90 76) scale(1.08)"><path d="M22 68 79 10Q86 3 98 3H224L175 57Q171 62 162 62H67Q42 62 22 86Z" fill="url(#metal)" stroke="#a8b3ba" stroke-opacity=".35" stroke-width="1.5"/>
+<path d="M22 86Q22 64 48 62H90L22 142Z" fill="url(#fold)"/>
+<path d="M22 172 95 92H182L59 224Q52 232 43 232H22Z" fill="url(#metal)"/>
+<path d="M56 148 108 88Q112 84 121 84H189L149 132Q144 139 134 139H72Z" fill="#05090c" opacity=".7"/>
+<path d="M61 143 110 89Q115 83 125 83H190L151 130Q146 137 136 137H73Z" fill="url(#orange)"/></g>
+<path d="M394 106v206" stroke="#737d83" stroke-width="2"/>
+<text x="452" y="233" fill="#f0f3f5" font-family="Arial Black, Arial, sans-serif" font-size="132" font-weight="900" letter-spacing="2">FOROO</text>
+<path d="m811 210 24 0 46 49h-26z" fill="url(#orange)"/>
+<text x="461" y="285" fill="#a9b2b9" font-family="Arial, sans-serif" font-size="24" letter-spacing="10">SOFTWARE ENGINEERING</text>
+<path d="M95 362h34" stroke="#ff790a" stroke-width="3"/>
+<text x="148" y="368" fill="#78858d" font-family="Arial, sans-serif" font-size="15" letter-spacing="4">DESKTOP APPLICATIONS / OPEN SOURCE / RU INTERFACES</text>
 </svg>
