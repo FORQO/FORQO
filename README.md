@@ -54,6 +54,10 @@ FORQO — бренд разработки программного обеспе�
 
 </details>
 
+## Участие
+
+[Как внести вклад](CONTRIBUTING.md) · [Кодекс поведения FORQO](CODE_OF_CONDUCT.md).
+
 ---
 
 <p align="center"><sub><a href="https://github.com/FORQO"><b>FORQO</b></a> · SOFTWARE ENGINEERING<br>Desktop applications · Open source · RU interfaces</sub></p>
