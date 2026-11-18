@@ -6,7 +6,7 @@
 
 ## English
 
-Max Liv develops RoadMax and DiskForge Studio under the FORQO name. Both applications work with files on your own computer.
+Max Liv develops RoadMax and DiskForge Studio under the FORQO name. Both applications work with files on your own computer and offer English and Russian interfaces.
 
 ### RoadMax
 
@@ -18,11 +18,11 @@ Available for **Windows 10/11 x64** and **macOS 13 or later** on Apple Silicon a
 
 Turn films or episodes into a Full HD Blu-ray with a menu you design. Choose chapters, audio tracks and subtitles, preview the navigation, then export a BDMV folder or ISO image. To put the result on a blank disc, burn the exported image with a separate disc-writing program.
 
-Available for **Windows 10/11 x64** and **Macs with Apple Silicon**. The application source is published under the MIT license. [Download DiskForge Studio](https://github.com/FORQO/DiscForge-RU/releases/latest) · [Repository](https://github.com/FORQO/DiscForge-RU) · [Player compatibility tests](https://github.com/FORQO/DiscForge-RU/blob/main/docs/PLAYER_TEST_MATRIX.md)
+Available for **Windows 10/11 x64** and **Macs with Apple Silicon**. The application source is published under the MIT license. [Download DiskForge Studio](https://github.com/FORQO/DiscForge-RU/releases/latest) · [English guide and screenshots](https://github.com/FORQO/DiscForge-RU/blob/main/docs/STUDIO_EN.md) · [Player compatibility tests](https://github.com/FORQO/DiscForge-RU/blob/main/docs/PLAYER_TEST_MATRIX.md)
 
 ## Русский
 
-FORQO — проекты независимого разработчика Max Liv. Оба приложения работают с файлами на вашем компьютере.
+FORQO — проекты независимого разработчика Max Liv. Оба приложения работают с файлами на вашем компьютере и доступны на русском и английском.
 
 ### RoadMax — доска для материалов проекта
 
