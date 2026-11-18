@@ -1,79 +1,43 @@
-<p align="center">
-  <img src=".github/forqo-banner.svg" alt="FORQO — RoadMax и DiskForge. Идеи, документы и видеоколлекции." width="100%">
-</p>
+<p align="center"><img src=".github/forqo-banner.svg" alt="FORQO — RoadMax and DiskForge Studio" width="100%"></p>
 
-<p align="center"><b>Создаём приложения, в которых идеи, документы и видеоколлекции остаются под вашим контролем.</b></p>
+# FORQO
 
-<p align="center"><a href="#roadmax">RoadMax</a> · <a href="#diskforge">DiskForge</a> · <a href="#наш-подход">Наш подход</a> · <a href="#обратная-связь">Обратная связь</a></p>
+[English](#english) · [Русский](#русский)
 
-**FORQO — независимая разработка настольных приложений.** За проектами — **Max Liv**. Мы делаем инструменты для конкретных задач: собрать материалы проекта в одном пространстве и превратить видеоколлекцию в готовый Blu-ray. В основе — локальная работа с файлами и понятный русскоязычный интерфейс.
+## English
 
-## Основные проекты
+Max Liv develops RoadMax and DiskForge Studio under the FORQO name. Both applications work with files on your own computer.
 
-| Продукт | Для чего | Платформа и доступность |
-| :--- | :--- | :--- |
-| **[RoadMax](https://github.com/FORQO/RoadMax-Public)** | Идеи, планы и документы на визуальной доске. | Windows · активная разработка · публичный обзор |
-| **[DiskForge Studio](#diskforge)** | Фильмы и серии на Blu-ray с собственным меню. | Windows 10/11 x64 · macOS Apple Silicon · доступен для скачивания |
+### RoadMax
 
-## RoadMax
+Keep project notes on the same board as the documents they refer to. Pin a source PDF, annotate a passage, and draw an arrow to the note it supports. You can also work with images and supported spreadsheets and Word documents. To take a board to another computer, export its project folder with the attachments.
 
-**Рабочее пространство, где виден весь проект.**
+Available for **Windows 10/11 x64** and **macOS 13 or later** on Apple Silicon and Intel. [Download RoadMax](https://roadmax.dskforge.com/#download) · [English overview and sample board](https://github.com/FORQO/RoadMax-Public/blob/main/README.en.md) · [Latest release](https://github.com/FORQO/RoadMax-Public/releases/latest)
 
-RoadMax объединяет заметки, схемы и материалы на одной доске. Он помогает разложить идеи, показать связи и держать нужные файлы рядом с планом работы.
+### DiskForge Studio
 
-- **Визуальная доска:** текст, стикеры, карточки, фигуры, рисунки и связи между объектами.
-- **Организация материалов:** проекты, папки и доски, вложения и предпросмотр.
-- **Работа с PDF:** просмотр, поиск, пометки, операции со страницами и экспорт в текущих тестовых сборках.
-- **Локальные данные:** сохранение на компьютере, резервные копии и перенос проектов.
+Turn films or episodes into a Full HD Blu-ray with a menu you design. Choose chapters, audio tracks and subtitles, preview the navigation, then export a BDMV folder or ISO image. To put the result on a blank disc, burn the exported image with a separate disc-writing program.
 
-**Сейчас:** развиваем и проверяем Windows-приложение. Доступна публичная страница с описанием и скриншотами; исходный код закрыт, публичной сборки для скачивания пока нет.
+Available for **Windows 10/11 x64** and **Macs with Apple Silicon**. The application source is published under the MIT license. [Download DiskForge Studio](https://github.com/FORQO/DiscForge-RU/releases/latest) · [Repository](https://github.com/FORQO/DiscForge-RU) · [Player compatibility tests](https://github.com/FORQO/DiscForge-RU/blob/main/docs/PLAYER_TEST_MATRIX.md)
 
-**[Познакомиться с RoadMax — описание и скриншоты](https://github.com/FORQO/RoadMax-Public)**
+## Русский
 
-**Следующий этап:** просмотр и базовое редактирование изображений, затем работа с таблицами и Word-документами внутри RoadMax. Это планы развития, а не возможности опубликованного выпуска.
+FORQO — проекты независимого разработчика Max Liv. Оба приложения работают с файлами на вашем компьютере.
 
-## DiskForge
+### RoadMax — доска для материалов проекта
 
-**Ваша видеоколлекция — готовый Blu-ray с собственным меню.**
+Держите заметки рядом с документами, к которым они относятся. Можно закрепить PDF, отметить в нём нужный фрагмент и соединить его стрелкой с выводом на стикере. RoadMax также работает с изображениями, таблицами и поддерживаемыми документами Word. Для переноса на другой компьютер экспортируйте папку проекта вместе с вложениями.
 
-DiskForge Studio собирает фильмы и серии на BD25/BD50: от выбора дорожек и оформления меню до готовой структуры BDMV или ISO-образа.
+Доступен для **Windows 10/11 x64** и **macOS 13 и новее** на Apple Silicon и Intel. [Скачать RoadMax](https://roadmax.dskforge.com/#download) · [Пример доски](https://github.com/FORQO/RoadMax-Public/raw/refs/heads/main/examples/one-street-ru.zip) · [Краткая инструкция](https://github.com/FORQO/RoadMax-Public/blob/main/docs/QUICK-START-RU.md)
 
-- **Коллекции:** несколько фильмов и серий на одном диске, главы, аудиодорожки и субтитры.
-- **Редактор меню:** фон, кнопки и оформление, светлая и тёмная темы, интерактивный предпросмотр.
-- **Подготовка видео:** подбор битрейта и контроль заполнения диска; копирование совместимого видео без перекодирования.
-- **Контроль результата:** пробы качества, проверка структуры ISO и просмотр в VLC.
+### DiskForge Studio — создание Blu-ray
 
-**Доступен Studio 1.5.0** для **Windows 10/11 x64** и **macOS Apple Silicon (M1 и новее)**. Обработка выполняется локально, без аккаунта. Исходный код приложения открыт под лицензией MIT.
+Соберите фильмы или серии на одном Full HD Blu-ray. Настройте меню, главы, аудиодорожки и субтитры, проверьте навигацию в предпросмотре и экспортируйте папку BDMV или ISO-образ. Готовый образ можно записать на диск отдельной программой.
 
-**[Скачать для Windows или macOS](https://github.com/FORQO/DiscForge-RU/releases/tag/v1.5.0-studio)** · [Возможности и исходники](https://github.com/FORQO/DiscForge-RU) · [Руководство](https://github.com/FORQO/DiscForge-RU/blob/main/docs/USER_GUIDE.md)
+Доступен для **Windows 10/11 x64** и **Mac с Apple Silicon**. Исходный код приложения опубликован под лицензией MIT. [Скачать DiskForge Studio](https://github.com/FORQO/DiscForge-RU/releases/latest) · [Руководство](https://github.com/FORQO/DiscForge-RU/blob/main/docs/USER_GUIDE.md) · [Проверка на плеерах](https://github.com/FORQO/DiscForge-RU/blob/main/docs/PLAYER_TEST_MATRIX.md)
 
-Приложение ориентировано на Full HD Blu-ray. Запись готового образа на диск выполняется отдельной программой. Совместимость со всеми бытовыми плеерами пока не подтверждена — [подробные требования и ограничения](https://github.com/FORQO/DiscForge-RU#статус-и-ограничения).
+## Feedback / Обратная связь
 
-## Наш подход
+[RoadMax](https://github.com/FORQO/RoadMax-Public/issues) · [DiskForge Studio](https://github.com/FORQO/DiscForge-RU/issues) · [FORQO](https://github.com/FORQO/FORQO/issues)
 
-- **Локальная работа.** Основные сценарии выполняются на компьютере пользователя.
-- **Практическая польза.** Развиваем инструменты вокруг реальных задач и обратной связи.
-- **Понятный статус.** Разделяем опубликованные версии, тестовые сборки и планы.
-- **Уважение к открытому коду.** Сохраняем лицензии и авторство используемых компонентов.
-
-<details>
-<summary>Технологии</summary>
-
-**RoadMax:** TypeScript · React · Electron.  
-**DiskForge:** Python · PySide6 · FFmpeg · tsMuxer · Java / BD-J.
-
-</details>
-
-## Обратная связь
-
-**DiskForge:** [сообщить об ошибке или предложить улучшение](https://github.com/FORQO/DiscForge-RU/issues). Укажите версию, операционную систему и шаги воспроизведения.
-
-**RoadMax:** [вопросы и предложения](https://github.com/FORQO/RoadMax-Public/issues).
-
-**Общие вопросы FORQO:** [обращения в репозитории профиля](https://github.com/FORQO/FORQO/issues).
-
-[Как внести вклад](CONTRIBUTING.md) · [Кодекс поведения](CODE_OF_CONDUCT.md) · [Безопасность](SECURITY.md)
-
----
-
-<p align="center"><sub><b>FORQO</b> · RoadMax · DiskForge<br>Локальные приложения. Понятные инструменты. Ваши проекты.</sub></p>
+[Contributing / Участие](CONTRIBUTING.md) · [Code of conduct / Кодекс поведения](CODE_OF_CONDUCT.md) · [Security / Безопасность](SECURITY.md)

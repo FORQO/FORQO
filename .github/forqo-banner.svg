@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="360" viewBox="0 0 1440 360" role="img" aria-labelledby="title desc">
 <title id="title">FORQO · RoadMax · DiskForge</title>
-<desc id="desc">Независимая разработка приложений. Идеи, документы и видеоколлекции.</desc>
+<desc id="desc">Independent desktop software. Notes, documents and Blu-ray.</desc>
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171d21"/><stop offset="1" stop-color="#080c0e"/></linearGradient>
 <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a7afb4"/><stop offset=".4" stop-color="#515c64"/><stop offset="1" stop-color="#242c31"/></linearGradient>
@@ -17,8 +17,8 @@
 <g font-family="Segoe UI,Arial,sans-serif">
 <text x="195" y="95" font-size="45" font-weight="700" letter-spacing="5" fill="#edf1f4">FORQO</text>
 <text x="197" y="126" font-size="18" letter-spacing="2" fill="#9aa5ad">INDEPENDENT SOFTWARE</text>
-<text x="72" y="220" font-size="48" font-weight="600" fill="#f1f4f6">Идеи. Документы. Видеоколлекции.</text>
-<text x="75" y="265" font-size="24" fill="#b9c2c9">Локальные приложения для ваших проектов.</text>
+<text x="72" y="220" font-size="48" font-weight="600" fill="#f1f4f6">Notes, documents and Blu-ray.</text>
+<text x="75" y="265" font-size="24" fill="#b9c2c9">Desktop tools for your own files.</text>
 <path d="M75 307h48" stroke="#ff8520" stroke-width="4"/>
 <text x="143" y="315" font-size="22" font-weight="600" fill="#edf1f4">RoadMax</text>
 <circle cx="268" cy="307" r="3" fill="#77838d"/>
